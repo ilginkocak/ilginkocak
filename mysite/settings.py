@@ -26,7 +26,9 @@ SECRET_KEY = '$1ompt63xo%(^8paxvhdxzdy&8r2lb75886kv(av8d!yclt(5v'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-'ilginkocak.pythonanywhere.com'
+'ilginkocak.pythonanywhere.com',
+'127.0.0.1',
+'localhost'
 ]
 
 
